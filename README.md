@@ -30,9 +30,9 @@
 
 <details>
  <summary><h3>👨‍💻 Sherry's Coding Journey</h3></summary>
- 🚀 Sheridan Malan's coding journey started in Pretoria,  South Africa :south_africa:, driven by her passion for creating products that simplify and enhance lives. Inspired by local art 🎨 and travel adventures ✈️, she infused her designs with everyday experiences.
+ 🚀 My coding journey started in Pretoria,  South Africa :south_africa:, driven by my passion for creating products that simplify and enhance lives. Inspired by local art 🎨 and travel adventures ✈️, I infused My designs with everyday experiences.
 
- 🛠️ Armed with creativity and a sense of adventure, Sheridan set out to conquer the digital world, one line of code at a time. With her leading the way, the journey is filled with endless possibilities and exciting adventures! 🌟
+ 🛠️ Armed with creativity and a sense of adventure, I set out to conquer the digital world, one line of code at a time. My journey is filled with endless possibilities and exciting adventures! 🌟
 
 ###📫 Contact
 [website]: https://sheridanmalan.netlify.app/
